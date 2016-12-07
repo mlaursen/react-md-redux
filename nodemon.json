@@ -1,0 +1,10 @@
+{
+  "watch": [
+    "index.js",
+    "configs",
+    "src/server.js",
+    "src/utils/renderHtmlPage",
+    "package.json",
+    "nodemon.json"
+  ]
+}
