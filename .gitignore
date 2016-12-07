@@ -2,6 +2,6 @@
 node_modules
 webpack-assets.json
 webpack-stats.json
-dist
+dist/*
 !dist/favicon.ico
 .DS_STORE
