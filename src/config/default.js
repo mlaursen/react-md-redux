@@ -11,7 +11,7 @@ module.exports = {
     }],
     link: [
       { rel: 'stylesheet', href: 'https://fonts.googleapis.com/css?family=Roboto:400,500,700|Material+Icons' },
-      { rel: 'stylesheet', href: 'https://unpkg.com/react-md@1.0.0-beta/dist/react-md.teal-pink.min.css' },
+      { rel: 'stylesheet', href: 'https://unpkg.com/react-md@1.0.0/dist/react-md.teal-pink.min.css' },
     ],
   },
 };
