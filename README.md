@@ -4,6 +4,9 @@ is basically the [react-cool-starter](https://github.com/wellyshen/react-cool-st
 as the UI framework and changing a few things to be more to my general setup. There is no testing
 included by default and I can't figure out how to use CSSModules without using CDNs for the react-md styles.
 
+## Deprecated
+Please see the [examples folder](https://github.com/mlaursen/react-md/tree/master/examples) in the main repo instead or look at my [documentation server code](https://github.com/mlaursen/react-md/tree/master/docs)
+
 ## Getting Started
 
 ```bash
