@@ -1,5 +1,5 @@
 # Deprecated
-This project has been deprecated. Please check out the [examples](/mlaursen/react-md/tree/master/examples) instead in the react-md repo.
+This project has been deprecated. Please check out the [examples](https://github.com/mlaursen/react-md/tree/master/examples) instead in the react-md repo.
 
 # react-md-redux
 ~~A boilerplate repo for setting up an isomorphic React project with react-md and redux. This boilerplate
